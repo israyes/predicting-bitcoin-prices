@@ -17,7 +17,8 @@ Matplotlib or Seaborn (for data visualization)
 Jupyter Notebook (optional for interactive development
 
 # Model accuracy 
-![bit](https://github.com/abayomi-hayes/predicting-bitcoin-prices/assets/119630129/a78f1927-0f33-4f90-814c-69ce179df178)
+![bit](https://github.com/abayomi-hayes/predicting-bitcoin-prices/assets/119630129/bde82eba-8282-491f-8afb-cf9d7f882413)
+
 
 
 
