@@ -1,4 +1,5 @@
-#BITCOIN PREDICTION USING LSTM STOCK PRICE PREDICTION
+# BITCOIN PREDICTION USING LSTM STOCK PRICE PREDICTION
+
 using LSTM to predict stock prices
 This project utilizes LSTM, a type of recurrent neural network (RNN), to predict Bitcoin prices. LSTM is well-suited for time series data like cryptocurrency prices because it can capture temporal dependencies in the data.
 # Prerequisites
