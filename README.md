@@ -1,4 +1,4 @@
-![bit](https://github.com/abayomi-hayes/predicting-bitcoin-prices/assets/119630129/1c192a56-02e3-46ea-ab31-fb239fa92ad7)# predicting-bitcoin-prices
+
 using LSTM to predict stock prices
 This project utilizes LSTM, a type of recurrent neural network (RNN), to predict Bitcoin prices. LSTM is well-suited for time series data like cryptocurrency prices because it can capture temporal dependencies in the data.
 # Prerequisites
